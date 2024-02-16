@@ -1,12 +1,3 @@
-document.addEventListener("DOMContentLoaded", function() {
-  // Select the loading element
-  var loadingElement = document.querySelector('.loading');
-
-  // Set a timeout to hide the loading animation after 5 seconds
-  setTimeout(function() {
-    loadingElement.style.display = 'none';
-  }, 5000); // 5000 milliseconds = 5 seconds
-});
 
 
 
